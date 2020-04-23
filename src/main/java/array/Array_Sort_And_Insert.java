@@ -30,6 +30,7 @@ public class Array_Sort_And_Insert {
 		printArray("With 1 added ", array);
 
 	}
+	
 
 	private static void printArray(String message, int array[]) {
 		System.out.println(message + ": [length:" + array.length + "]");
