@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="450" started-at="2019-02-26T02:19:09Z" finished-at="2019-02-26T02:19:09Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="450" started-at="2019-02-26T02:19:09Z" finished-at="2019-02-26T02:19:09Z">
+      <class name="testNGBase.ExcelDataProvider">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:testNGBase.ExcelDataProvider@5622fdf]" name="test1" duration-ms="6" started-at="2019-02-26T02:19:09Z" data-provider="testData" finished-at="2019-02-26T02:19:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ashraful]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ashraf123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:testNGBase.ExcelDataProvider@5622fdf]" name="test1" duration-ms="1" started-at="2019-02-26T02:19:09Z" data-provider="testData" finished-at="2019-02-26T02:19:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rajib]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rajib456]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- testNGBase.ExcelDataProvider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
